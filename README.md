@@ -6,9 +6,9 @@ $ git clone https://github.com/zyvas/z-tree.git
 $ npm install 
 ```
 
-```
-var tree = require('./');
+Usage
 
+```
 tree.dirJSON('/tmp', function(err, data) {
   if (err) {
     console.log(err);
