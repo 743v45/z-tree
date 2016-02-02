@@ -1,7 +1,10 @@
 
 ## installation
-$ git clone 
+
+```
+$ git clone https://github.com/zyvas/z-tree.git
 $ npm install 
+```
 
 ```
 var tree = require('./');
